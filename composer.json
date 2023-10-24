@@ -1,5 +1,5 @@
 {
-    "name": "mbgna/mbgna_arcgist",
+    "name": "mbgna/mbgna_arcgis",
     "type": "drupal-module",
     "description": "Provides ArcGIS integration for the site.",
     "license": "GPL-2.0-or-later",
