@@ -1,0 +1,15 @@
+mbgna_arcgis.content:
+  path: '/mbgna-arcgis/content'
+  defaults:
+    _title: 'Content'
+    _controller: '\Drupal\mbgna_arcgis\Controller\MbgnaArcgisController::build'
+  requirements:
+    _permission: 'access content'
+
+mbgna_arcgis.frame:
+  path: '/mbgna-arcgis/frame'
+  defaults:
+    _title: 'iFrame'
+    _controller: '\Drupal\mbgna_arcgis\Controller\MbgnaArcgisFrameController::build'
+  requirements:
+    _permission: 'access content'

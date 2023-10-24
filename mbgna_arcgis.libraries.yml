@@ -1,0 +1,9 @@
+mbgna_arcgis.iframe:
+  css:
+    theme:
+      css/iframe.css: {}
+  js:
+    js/iframe.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
